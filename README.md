@@ -1,9 +1,9 @@
 
 # Most Active Cookie Finder
 
-## Project Overview
+## Coding Overview
 
-This project consists of a Python script, `cookie_finder.py`, which processes a cookie log file in CSV format and returns the most active cookie for a specified date. The script is designed to be run from the command line, taking two parameters: the path to the CSV file (`-f`) and the date for which the most active cookie is sought (`-d`).
+This Repo consists of a Python script, `cookie_finder.py`, which processes a cookie log file in CSV format and returns the most active cookie for a specified date. The script is designed to be run from the command line, taking two parameters: the path to the CSV file (`-f`) and the date for which the most active cookie is sought (`-d`).
 
 ## Requirements
 
