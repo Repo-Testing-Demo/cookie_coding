@@ -25,7 +25,6 @@ python cookie_finder.py -f [path_to_cookie_log.csv] -d [date]
 
 Replace `[path_to_cookie_log.csv]` with the path to your cookie log file and `[date]` with the date you're interested in, formatted as `YYYY-MM-DD`.
 
-[Above the csv file names is cookie_log.csv]
 
 For example:
 
